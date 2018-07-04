@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="news-common" />
+        <module name="news-context" />
+        <module name="news-xpath" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="news-common" target="1.8" />
+      <module name="news-context" target="1.8" />
+      <module name="news-parent" target="1.8" />
+      <module name="news-xpath" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

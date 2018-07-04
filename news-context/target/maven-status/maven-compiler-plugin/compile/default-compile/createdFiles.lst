@@ -1,0 +1,8 @@
+cn\yjw\news\context\util\HtmlContentExtractor.class
+cn\yjw\news\context\mapreduce\NewsOrcContext.class
+cn\yjw\news\context\NewsOrcHtmlJob.class
+cn\yjw\news\context\util\Constant.class
+cn\yjw\news\context\mapreduce\NewsOrcHtml$NewsOrcHtmlMapper.class
+cn\yjw\news\context\App.class
+cn\yjw\news\context\mapreduce\NewsOrcHtml.class
+cn\yjw\news\context\util\SortedElement.class

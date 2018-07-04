@@ -1,0 +1,9 @@
+cn\yjw\news\xpath\mapreduce\TextXpath.class
+cn\yjw\news\xpath\util\Constant.class
+cn\yjw\news\xpath\mapreduce\TextXpath$TextXpathMapper.class
+cn\yjw\news\xpath\mapreduce\TextXpath$TextXpathReducer.class
+cn\yjw\news\xpath\util\SortedElement.class
+cn\yjw\news\xpath\util\HtmlContentExtractor.class
+cn\yjw\news\xpath\CommonXpath$Record.class
+cn\yjw\news\xpath\CommonXpath.class
+cn\yjw\news\xpath\TextXpathJob.class
